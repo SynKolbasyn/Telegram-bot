@@ -5,16 +5,16 @@
 ### Description
 Telegram bot library written on C++
 
-### Instructions for develop
+### Instructions for contributors
 - Fork this repository
 - Clone your forked repository
-- Add your scripts
+- Add your changes
 - Commit and push
 - Create a pull request
 - Star this repository
 - Wait for pull request to merge
 
-### Instructions for use
+### Usage instructions
 - Clone this repository
 - Copy the contents of the src folder to the following path: "PATH_TO_YOUR_PROJECT/bot/" (cp -r src/ PATH_TO_YOUR_PROJECT/bot/)
 
